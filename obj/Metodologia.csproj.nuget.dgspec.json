@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucer\\Desktop\\Metodologia\\Metodologia.csproj": {}
+    "c:\\Users\\lucer\\Desktop\\Metodologia\\Metodologia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucer\\Desktop\\Metodologia\\Metodologia.csproj": {
+    "c:\\Users\\lucer\\Desktop\\Metodologia\\Metodologia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucer\\Desktop\\Metodologia\\Metodologia.csproj",
+        "projectUniqueName": "c:\\Users\\lucer\\Desktop\\Metodologia\\Metodologia.csproj",
         "projectName": "Metodologia",
-        "projectPath": "C:\\Users\\lucer\\Desktop\\Metodologia\\Metodologia.csproj",
+        "projectPath": "c:\\Users\\lucer\\Desktop\\Metodologia\\Metodologia.csproj",
         "packagesPath": "C:\\Users\\lucer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucer\\Desktop\\Metodologia\\obj\\",
+        "outputPath": "c:\\Users\\lucer\\Desktop\\Metodologia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
